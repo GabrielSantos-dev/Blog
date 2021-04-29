@@ -1,7 +1,9 @@
-# Blog
+# My Blog
 
-Screens:
-
+#Screens:
+![1](https://github.com/GabrielSantos-dev/Blog/blob/main/frontend/blog/src/assets/1.PNG)
+![2](https://github.com/GabrielSantos-dev/Blog/blob/main/frontend/blog/src/assets/2.PNG)
+![3](https://github.com/GabrielSantos-dev/Blog/blob/main/frontend/blog/src/assets/3.PNG)
 
 
 
