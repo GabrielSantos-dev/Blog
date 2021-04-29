@@ -1,0 +1,8 @@
+.parallax{
+  background-image: url('https://avatars.githubusercontent.com/u/53788389?v=4');
+  min-height: 400px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+   
+  }
